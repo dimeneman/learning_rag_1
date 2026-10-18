@@ -1,0 +1,140 @@
+Machine Learning
+
+Machine Learning (ML) is a branch of Artificial Intelligence (AI) that enables computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every task.
+
+Types of Machine Learning
+
+1. Supervised Learning
+Supervised learning uses labeled data to train a model. The algorithm learns the relationship between input features and output labels.
+Examples:
+- House price prediction
+- Email spam detection
+- Image classification
+
+Common Algorithms:
+- Linear Regression
+- Logistic Regression
+- Decision Trees
+- Random Forest
+- Support Vector Machine (SVM)
+- K-Nearest Neighbors (KNN)
+
+2. Unsupervised Learning
+Unsupervised learning works with unlabeled data. The goal is to discover hidden patterns or structures in the data.
+
+Examples:
+- Customer segmentation
+- Market basket analysis
+- Anomaly detection
+
+Common Algorithms:
+- K-Means Clustering
+- DBSCAN
+- Hierarchical Clustering
+- Principal Component Analysis (PCA)
+
+3. Reinforcement Learning
+In reinforcement learning, an agent learns by interacting with an environment. It receives rewards for good actions and penalties for bad actions.
+
+Applications:
+- Robotics
+- Self-driving cars
+- Game playing
+- Recommendation systems
+
+Machine Learning Workflow
+
+1. Collect Data
+2. Clean and preprocess the data
+3. Split data into training and testing sets
+4. Train the model
+5. Evaluate the model
+6. Tune hyperparameters
+7. Deploy the model
+8. Monitor and improve the model
+
+Important Concepts
+
+Dataset
+A collection of data used for training and testing machine learning models.
+
+Feature
+An individual measurable property of the data.
+
+Label
+The target value that the model tries to predict.
+
+Training Set
+The data used to train the model.
+
+Test Set
+The unseen data used to evaluate model performance.
+
+Validation Set
+A dataset used for hyperparameter tuning.
+
+Overfitting
+When a model memorizes the training data and performs poorly on unseen data.
+
+Underfitting
+When a model is too simple to capture patterns in the data.
+
+Evaluation Metrics
+
+For Regression:
+- Mean Absolute Error (MAE)
+- Mean Squared Error (MSE)
+- Root Mean Squared Error (RMSE)
+- R² Score
+
+For Classification:
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- ROC-AUC
+
+Feature Engineering
+
+Feature engineering involves creating, selecting, or transforming features to improve model performance. Common techniques include:
+- One-Hot Encoding
+- Label Encoding
+- Feature Scaling
+- Standardization
+- Normalization
+
+Popular Python Libraries
+
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- XGBoost
+- LightGBM
+
+Applications of Machine Learning
+
+- Healthcare
+- Finance
+- Fraud Detection
+- Recommendation Systems
+- Computer Vision
+- Natural Language Processing
+- Speech Recognition
+- Autonomous Vehicles
+
+Challenges in Machine Learning
+
+- Poor data quality
+- Imbalanced datasets
+- Lack of labeled data
+- Model interpretability
+- Overfitting
+- Computational cost
+- Data privacy
+
+Conclusion
+
+Machine Learning is transforming industries by enabling systems to learn from data and automate complex tasks. A successful machine learning project depends not only on choosing the right algorithm but also on high-quality data, proper preprocessing, careful evaluation, and continuous monitoring after deployment.
